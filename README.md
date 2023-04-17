@@ -21,7 +21,7 @@ metrology lab
 
 ![photo_2023-04-12_01-29-30](https://user-images.githubusercontent.com/81384987/231275146-f30296c9-b50c-4199-9ef5-a6105f6964d6.jpg)
 
-# 6. Thread Gauge [YouTube]() or [pdf](https://www.linkedin.com/posts/akashdip2001_thread-gauge-activity-7051638926905606145-p_8y?utm_source=share&utm_medium=member_android) [⬇️](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/files/11204591/Thread.Gauge.pdf)
+# 6. Thread Gauge [YouTube](https://youtu.be/nHCKkawe1M8) or [pdf](https://www.linkedin.com/posts/akashdip2001_thread-gauge-activity-7051638926905606145-p_8y?utm_source=share&utm_medium=member_android) [⬇️](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/files/11204591/Thread.Gauge.pdf)
 
 ![photo_2023-04-12_01-31-19](https://user-images.githubusercontent.com/81384987/231275469-38857907-dab7-4d3b-892d-ec9e9800551c.jpg)
 
