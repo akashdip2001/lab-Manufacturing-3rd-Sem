@@ -29,6 +29,9 @@ metrology lab
 
 ![MEASURE SURFACE ROUGHNESS](https://user-images.githubusercontent.com/81384987/236627949-4b9b19e0-74b7-4090-8fa4-908843da396e.jpg)
 
+-----------
+copyright by [Akashdip Mahapatra](https://akashdip2001.github.io/linktree/)
+
 
 
 
