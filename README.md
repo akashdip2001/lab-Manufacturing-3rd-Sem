@@ -25,7 +25,7 @@ metrology lab
 
 ![photo_2023-04-12_01-31-19](https://user-images.githubusercontent.com/81384987/231275469-38857907-dab7-4d3b-892d-ec9e9800551c.jpg)
 
-# 7. MEASURE SURFACE ROUGHNESS [YouTube](https://youtu.be/I4GnLl5HMWE) or [pdf](https://www.linkedin.com/posts/akashdip2001_measure-surface-roughness-activity-7060606373767593984-WFS5?utm_source=share&utm_medium=member_android) [⬇️]()
+# 7. MEASURE SURFACE ROUGHNESS [YouTube](https://youtu.be/I4GnLl5HMWE) or [pdf](https://www.linkedin.com/posts/akashdip2001_measure-surface-roughness-activity-7060606373767593984-WFS5?utm_source=share&utm_medium=member_android) [⬇️](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/files/11471156/Roughness.value.chack.pdf)
 
 ![MEASURE SURFACE ROUGHNESS](https://user-images.githubusercontent.com/81384987/236627949-4b9b19e0-74b7-4090-8fa4-908843da396e.jpg)
 
