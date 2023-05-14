@@ -1,5 +1,5 @@
 # lab-Manufacturing-3rd-Sem
-metrology lab
+# 🟡🟢🔵🟣 Metrology lab
 
 # 1. Vernier Caliper [pdf](https://www.linkedin.com/posts/akashdip2001_verniercaliper-activity-7051632393551527937-eGTM?utm_source=share&utm_medium=member_android) [⬇️](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/files/11204468/VernierCaliper.pdf)
 
@@ -30,6 +30,21 @@ metrology lab
 ![MEASURE SURFACE ROUGHNESS](https://user-images.githubusercontent.com/81384987/236627949-4b9b19e0-74b7-4090-8fa4-908843da396e.jpg)
 
 -----------
+# 🟡🟢🔵🟣 FreeCAD & AutoCAD
+
+# 8. Bush ✅ [YouTube](https://youtu.be/NYrfnZJuC98)
+![freecad pad drawing](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/assets/81384987/a15e2943-a0f9-4fc8-a49a-7a1157843df5)
+
+# 9. Cotter joint ✅ [YouTube](https://youtu.be/-F2u6q5wXn4)
+![freecad pad drawing and tech draw](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/assets/81384987/08cbc39f-5c73-4333-b858-248710f4aafc)
+
+# 10. AutoCAD ✅ [YouTube](https://youtu.be/19FaVSVaGWg)
+![autocad 2d and 3d drawing](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/assets/81384987/0c73b147-a9f6-4bdf-91ff-f6e621ec6422)
+
+# 11. AutoCAD ✅ [YouTube](https://youtu.be/JfjWJ_a-JeI)
+![autocad drawing](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/assets/81384987/c4bee991-5b1e-4638-ab04-42dca7bdafaa)
+
+
 copyright by [Akashdip Mahapatra](https://akashdip2001.github.io/linktree/)
 
 
