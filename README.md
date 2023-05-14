@@ -1,5 +1,6 @@
 # lab-Manufacturing-3rd-Sem
-# 🟡🟢🔵🟣 Metrology lab
+# 🟡🟢🔵🟣 
+# Metrology lab
 
 # 1. Vernier Caliper [pdf](https://www.linkedin.com/posts/akashdip2001_verniercaliper-activity-7051632393551527937-eGTM?utm_source=share&utm_medium=member_android) [⬇️](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/files/11204468/VernierCaliper.pdf)
 
@@ -30,7 +31,8 @@
 ![MEASURE SURFACE ROUGHNESS](https://user-images.githubusercontent.com/81384987/236627949-4b9b19e0-74b7-4090-8fa4-908843da396e.jpg)
 
 -----------
-# 🟡🟢🔵🟣 FreeCAD & AutoCAD
+# 🟡🟢🔵🟣 
+# FreeCAD & AutoCAD
 
 # 8. Bush ✅ [YouTube](https://youtu.be/NYrfnZJuC98)
 ![freecad pad drawing](https://github.com/akashdip2001/lab-Manufacturing-3rd-Sem/assets/81384987/a15e2943-a0f9-4fc8-a49a-7a1157843df5)
